@@ -11,6 +11,7 @@
 devops_test.prototype = {
     initialize: function() {
         gs.addInfoMessage("Hello rs!");
+//atf execution
     },
 
     type: 'devops_test'
