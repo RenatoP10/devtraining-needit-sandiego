@@ -10,6 +10,7 @@
         <script><![CDATA[var devops_test = Class.create();
 devops_test.prototype = {
     initialize: function() {
+        gs.addInfoMessage("Hello rs!");
     },
 
     type: 'devops_test'
